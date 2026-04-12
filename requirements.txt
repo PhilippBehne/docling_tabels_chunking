@@ -1,0 +1,8 @@
+# PyTorch mit CUDA zuerst installieren:
+# pip install torch --index-url https://download.pytorch.org/whl/cu128
+docling[easyocr]
+docling-core[chunking]
+langchain-text-splitters
+tiktoken
+tqdm
+requests
