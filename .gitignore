@@ -1,0 +1,12 @@
+# Everything ignored by default
+*
+
+# Allow code directory
+!code/
+!code/**
+
+# Allow requirements
+!requirements.txt
+
+# Allow gitignore itself
+!.gitignore
